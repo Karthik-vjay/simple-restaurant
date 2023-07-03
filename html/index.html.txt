@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Salem Restaurant-Tiffun and Unlimited Meals</h1>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="menu.html">Menu</a>
+    <a href="https://www.zomato.com/coimbatore"target=" _blank">order online</a>
+    <br>
+    <figure>
+        <img src="images/Dosa.jpg " alt="Special Dosa" title="Dosa" width="300" height="300">
+        
+        <figcaption>Dosa with Spicy saambar and chutney</figcaption>
+    </figure>
+    <h3>Dine in and Dine out</h3>
+    <h3>Quality Products</h3>
+    <h3>Genuine Services</h3>
+    <figure>
+        <img src="images/egg fried rice.jpg" alt="Special rice" title="Egg Rice" width="300" height="200">
+        <figcaption>special friedrice waiting for you! come and grab fast</figcaption>
+        <p> Fried rice is a traditional Chinese preparation of cooked rice, vegetables, protein, soy sauce, and aromatics. The ingredients are stir-fried in a large pan or wok for even flavor distribution.</p>
+    </figure>
+    <br>
+
+    <a href="mailto:www.zomoto.com">Send a mail to us</a>
+    <a href="menu.html#dessert">Check our new desserts</a>
+</body>
+</html>
